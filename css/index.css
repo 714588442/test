@@ -1,0 +1,9 @@
+body{
+    background: #eee;
+    height: 1000px;
+}
+#article-content{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
